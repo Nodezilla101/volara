@@ -10,9 +10,11 @@ Step 2: Change into the Directory ```cd volara```
 
 Step 3: Make the Script Executable ```chmod +x volara-mainet.sh```
 
-Step 4: Create a screen ```screen -S volara```
+Step 4: Install a screen if you haven’t already ```apt install screen```
 
-Step 5: Run the Installation Script ```./volara-mainet.sh```
+Step 5: Create a screen ```screen -S volara```
+
+Step 6: Run the Installation Script ```./volara-mainet.sh```
 
 Join the Community Stay up-to-date with the latest news and updates from Nodezilla101:
 
